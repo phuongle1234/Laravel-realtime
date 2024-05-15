@@ -1,0 +1,7 @@
+{
+    "The :attribute must contain at least one letter.": ":attributeは数字とローマ字を含む、半角英数字６文字以上でご入力ください。",
+    "The :attribute must contain at least one number.": ":attributeは数字とローマ字を含む、半角英数字６文字以上でご入力ください。",
+    "The :attribute must contain at least one symbol.": ":attribute少なくとも1つの記号が含まれている必要があります",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "英数記号10桁以上で入力してください",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "英数記号10桁以上で入力してください"
+}

@@ -1,0 +1,117 @@
+div.docx {
+    padding: 60px 130px;
+}
+
+div.docx p {
+    margin: 12pt 0in;
+    line-height: 115%;
+    font-size: 11pt;
+    font-family: Arial, sans-serif;
+    text-indent: -14pt;
+}
+
+.docx ol {
+    padding-left: 1rem;
+}
+
+.docx ol li ol li {
+    text-indent: -26px;
+    margin-left: 15px;
+}
+
+.docx h5 {
+    text-align: center
+}
+
+@media all and (max-width: 912px) {
+
+    div.docx {
+        padding: 15px !important;
+    }
+
+    .notification .message-wrapper .message-sidebar {
+        padding-bottom: 0;
+        /* min-height: 800px; */
+        max-height: calc(100vh - 84px);
+        min-height: calc(100vh - 84px);
+    }
+
+    #layoutSidenav_nav {
+        z-index: 99999 !important;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .message_type2 .p-content-message .message-wrapper .message-content .block-bottom .box .btn-icon {
+        display: none;
+    }
+
+    .message_type2 .p-content-message .message-wrapper .message-content .block-bottom {
+        right: 0;
+        position: fixed;
+        width: 100%;
+        left: 0;
+        bottom: 1%;
+        z-index: 99;
+    }
+
+    .message_type2 .p-content-message .message-wrapper .message-content .block-top h3{
+        white-space: nowrap;
+        width: 201px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .message_type2 .p-content-message .message-wrapper .message-content .block-bottom  #container{ width: calc(100% - 87px) !important; }
+
+}
+
+.message_type2 .p-content-message .message-wrapper .message-content .block-bottom #container{ width: calc(100% - 150px);border: 1px solid;border-radius: 5px;overflow: scroll;overflow-x: hidden;max-height: 100px; }
+
+
+.select2-container--default .select2-selection--single .select2-selection__rendered.select2-container{
+    max-width: 100%;
+    min-height: 44px !important;
+}
+
+.select2-container .select2-selection--single{
+    height: 44px !important;
+    border: none;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height: 44px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    height: 42px !important;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected]{
+    background-color: #00A29A !important;
+}
+
+.slick-lightbox .slick-prev{
+    left: 25px !important;
+}
+
+.slick-lightbox .slick-next{
+    right: 25px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__clear {
+    cursor: pointer;
+    float: right;
+    font-weight: bold;
+    position: absolute;
+    top: 0px;
+    right: 30px;
+    height: 100%;
+    border: none;
+    background: none;
+    z-index: 99;
+}
+
+select option:hover {
+    background-color: #00A29A !important;
+}

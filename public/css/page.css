@@ -1,0 +1,75 @@
+.p-login { background: #C1DA8C; }
+
+.p-login input[type=text], .p-login input[type=email], .p-login input[type=password] { height: 50px; }
+
+.p-login .logobox { text-align: center; font-size: 30px; font-weight: 700; margin-bottom: 70px; position: relative; }
+
+.p-login .logobox figcaption { position: absolute; left: 0; right: 0; margin: 0 auto; margin-top: -20px; }
+
+.p-login .tit-login { background: #ffffff; border-radius: 20px; padding: 12px 20px; margin-bottom: 0; }
+
+.p-login .container-fluid { padding-left: 25px; padding-right: 25px; padding-top: 20px; padding-bottom: 20px; }
+
+.p-login .loginbox_c { background: #ffffff; border-radius: 20px; width: 402px; padding: 60px 30px; min-width: 800px; max-height: 763px; margin: 0 auto; }
+
+.p-login .formlogin { width: 402px; margin: 0 auto; }
+
+.p-login .formlogin .formbox_e:nth-child(2) { margin-top: 30px; }
+
+.p-login .formlogin .formbox_e:last-child { margin-top: 50px; }
+
+.p-login .btn-primary { width: 100%; height: 70px; font-size: 20px; font-weight: 700; }
+
+.p-login .loginbox-wrapper { height: calc(100vh - 106px); display: -webkit-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; }
+
+.p-login .forgetpass { margin-top: 20px; text-align: center; }
+
+.p-login .forgetpass a { text-decoration: none; -webkit-transition: 0.5s ease-in-out; transition: 0.5s ease-in-out; }
+
+@media all and (min-width: 1280px) { .p-login .forgetpass a:hover { color: #00A29A; text-decoration: underline !important; -webkit-transition: 0.5s ease-in-out; transition: 0.5s ease-in-out; } }
+
+.p-login #layoutSidenav #layoutSidenav_content { height: 100vh; }
+
+.p-content-student table th:nth-child(1), .p-content-student table th:nth-child(2), .p-content-student table th:nth-child(3), .p-content-student table th:nth-child(4) { max-width: 250px; min-width: 200px; width: 16%; }
+
+.p-content-student .table-scroll table { min-width: 100%; }
+
+@media all and (max-width: 1700px) { .p-content-student .table-scroll table { min-width: 1452px; } }
+
+.p-content-lecturer .tableheadgreen thead th:nth-child(5), .p-content-lecturer .tableheadgreen thead th:nth-child(6) { width: 100px; white-space: nowrap; min-width: 100px; }
+
+.p-content-lecturer .choose-subject .item { background: #ACC870; border-color: #ACC870; }
+
+.p-content-lecturer .table-scroll table { min-width: 1700px; }
+
+.p-content-video.video-list table th:nth-child(3) { width: 220px; }
+
+.p-content-video.video-list table td figure { width: 162px; height: 93px; margin: 0 auto; }
+
+.p-content-video.video-list table td figure img { width: 100%; height: 100%; object-fit: cover; border-radius: 10px; }
+
+.p-content-video.video-detail figure { margin-bottom: 0; }
+
+.p-content-request .lecturer-tit h2.tit-page { margin-right: 20px; }
+
+.p-content-request .lecturer-tit .btn-success { margin-right: 20px; height: 44px; border-radius: 10px; }
+
+.p-content-request .lecturer-tit .btn-dark { padding: 8px 30px; }
+
+.p-lecturer_cp.list .table-style th:nth-child(1) { width: 30%; }
+
+.p-lecturer_cp.list .table-style th:nth-child(2) { width: 40%; }
+
+.p-content-tag.list .table-style th:nth-child(1) { width: 100px; }
+
+.p-content-tag.list .table-style th:nth-child(2), .p-content-tag.list .table-style th:nth-child(3), .p-content-tag.list .table-style th:nth-child(4), .p-content-tag.list .table-style th:nth-child(5) { width: 20%; }
+
+.p-content-request.detail .choose-subject .item { min-width: 175px; }
+
+.p-content-request.detail .calendar-group { max-width: 600px; }
+
+.p-content-video.detail .list-tag { max-width: 500px; display: grid; grid-template-columns: repeat(2, calc(50% - 10px)); -webkit-column-gap: 20px; -moz-column-gap: 20px; column-gap: 20px; row-gap: 40px; }
+
+.p-content-video.detail .list-tag li .tit { width: 70px; margin-right: 10px; display: inline-block; }
+
+.p-content-video.detail .list-tag li .tag { width: 95px; }

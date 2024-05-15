@@ -1,0 +1,26 @@
+{
+  "extends": [
+    "transloadit"
+  ],
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true,
+    "jasmine": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "requireConfigFile": false
+  },
+  "rules": {
+    // Rules from the transloadit preset we actually allow in tus-js-client
+    ////////////////////////////////////////////////////////////
+    "class-methods-use-this": ["off"],
+    "no-use-before-define": ["off"],
+    "no-param-reassign": ["off"],
+    "import/no-extraneous-dependencies": ["error", {
+      "devDependencies": ["test/**/*.js"]
+    }]
+  }
+}

@@ -1,0 +1,253 @@
+{
+    "loginMyApp": {
+        "title": "ログイン｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "ログイン｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "ログイン｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "forgotPass": {
+        "title": "パスワードをお忘れの方｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "パスワードをお忘れの方｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "パスワードをお忘れの方｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "reset_pass.index": {
+        "title": "パスワード再設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "パスワード再設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "パスワード再設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.home": {
+        "title": "Home｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "Home｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "Home｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.index": {
+        "title": "設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.regist": {
+        "title": "登録内容の変更｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "登録内容の変更｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "登録内容の変更｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.plan_change": {
+        "title": "プラン変更｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "プラン変更｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "プラン変更｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.plan_payment": {
+        "title": "プラン変更-お支払い｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "プラン変更-お支払い｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "プラン変更-お支払い｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.cancel": {
+        "title": "無料プランへの変更手続き｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "無料プランへの変更手続き｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "無料プランへの変更手続き｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.payment": {
+        "title": "お支払情報管理｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "お支払情報管理｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "お支払情報管理｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.payment_edit": {
+        "title": "お支払情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "お支払情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "お支払情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.payment_info": {
+        "title": "お支払情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "お支払情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "お支払情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.notification": {
+        "title": "通知設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "通知設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "通知設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.setting.inquiry": {
+        "title": "お問い合わせ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "お問い合わせ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "お問い合わせ｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.study.index": {
+        "title": "学習管理｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "学習管理｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "学習管理｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.video.list": {
+        "title": "動画一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "動画一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "動画一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.teacher.index": {
+        "title": "先生一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "先生一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "先生一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.request.list": {
+        "title": "あなたのリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "あなたのリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "あなたのリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.request.create": {
+        "title": "詳細｜あなたのリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "詳細｜あなたのリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "詳細｜あなたのリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.request.create_direct": {
+        "title": "直接リクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "直接リクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "直接リクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.message": {
+        "title": "メッセージ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "メッセージ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "メッセージ｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.faq.user_guide": {
+        "title": "ご利用ガイド｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "ご利用ガイド｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "ご利用ガイド｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.faq.question": {
+        "title": "よくある質問｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "よくある質問｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "よくある質問｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.faq.policy": {
+        "title": "プライバシーポリシー｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "プライバシーポリシー｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "プライバシーポリシー｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.faq.law": {
+        "title": "特定商取引法に基づく表記｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "特定商取引法に基づく表記｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "特定商取引法に基づく表記｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "student.notification.show": {
+        "title": "パスワードの再発行 | Edutoss | キャンプのサブスク",
+        "keyword": "パスワードの再発行 | Edutoss | キャンプのサブスク",
+        "description": "パスワードの再発行 | Edutoss | キャンプのサブスク"
+    },
+    "teacher.home": {
+        "title": "Home｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "Home｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "Home｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.setting.profile": {
+        "title": "News | Edutoss | キャンプのサブスク",
+        "keyword": "News | Edutoss | キャンプのサブスク",
+        "description": "News | Edutoss | キャンプのサブスク"
+    },
+    "teacher.setting.index": {
+        "title": "各種設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "各種設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "各種設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.setting.notification": {
+        "title": "通知設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "通知設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "通知設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.setting.request_reception": {
+        "title": "リクエスト受付設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "リクエスト受付設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "リクエスト受付設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.setting.account_info": {
+        "title": "口座情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "口座情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "口座情報設定｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.setting.inquiry": {
+        "title": "お問い合わせ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "お問い合わせ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "お問い合わせ｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.setting.user_guide": {
+        "title": "News | Edutoss | キャンプのサブスク",
+        "keyword": "News | Edutoss | キャンプのサブスク",
+        "description": "News | Edutoss | キャンプのサブスク"
+    },
+    "teacher.setting.faq": {
+        "title": "News | Edutoss | キャンプのサブスク",
+        "keyword": "News | Edutoss | キャンプのサブスク",
+        "description": "News | Edutoss | キャンプのサブスク"
+    },
+    "teacher.setting.privacy_policy": {
+        "title": "News | Edutoss | キャンプのサブスク",
+        "keyword": "News | Edutoss | キャンプのサブスク",
+        "description": "News | Edutoss | キャンプのサブスク"
+    },
+    "teacher.setting.law": {
+        "title": "News | Edutoss | キャンプのサブスク",
+        "keyword": "News | Edutoss | キャンプのサブスク",
+        "description": "News | Edutoss | キャンプのサブスク"
+    },
+    "teacher.request.list": {
+        "title": "リクエスト一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "リクエスト一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "リクエスト一覧｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.request.accepted": {
+        "title": "受注済みリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "受注済みリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "受注済みリクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.request.handel_accept" : {
+        "title": "リクエスト内容詳細｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "リクエスト内容詳細｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "リクエスト内容詳細｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.video.list": {
+        "title": "動画管理｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "動画管理｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "動画管理｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.reward.index": {
+        "title": "報酬リクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "報酬リクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "報酬リクエスト｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.reward.history": {
+        "title": "報酬履歴｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "報酬履歴｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "報酬履歴｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.notification.show": {
+        "title": "お知らせ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "お知らせ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "お知らせ｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "teacher.message": {
+        "title": "メッセージ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "メッセージ｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "メッセージ｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+
+    "register.index": {
+        "title": "新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "register.otp": {
+        "title": "OTP｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "OTP｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "OTP｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "register.accountType": {
+        "title": "アカウントタイプ選択｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "アカウントタイプ選択｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "アカウントタイプ選択｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "register.teacher.profile": {
+        "title": "講師｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "講師｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "講師｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    },
+    "register.student.profile": {
+        "title": "生徒｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "keyword": "生徒｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト",
+        "description": "生徒｜新規登録｜edutoss（エデュトス）学生のためのオンライン質問サイト"
+    }
+}
